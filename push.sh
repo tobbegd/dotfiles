@@ -112,5 +112,6 @@ unset ENCRYPT_PASS DECRYPT_PASS
 
 git add --all
 git commit -m "dotfiles update"
+git push
 
 
